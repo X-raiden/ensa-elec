@@ -1,0 +1,7 @@
+{
+  "name": "ensa-elec",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
